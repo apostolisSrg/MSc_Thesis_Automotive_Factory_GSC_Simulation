@@ -6,3 +6,4 @@
 # The purpose of the program is not to optimize but to represent the production process of automobiles in an industry.
 # The folder Thesis Project contains the Python modules that compose the program.
 # The folder Simulation Results consists of .txt files that the program outputed after it had ran 10 simulations
+ 
