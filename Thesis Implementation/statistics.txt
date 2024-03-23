@@ -1,0 +1,61 @@
+Statistics Comparison
+Simulations: 2
+
+--Automobile 1--
+Manufacturer: 1
+Material: a
+Total Material Weight: 1518
+AVG Material Weight: 759.0
+Total Income: 15804
+AVG Income: 7902.0
+Total Expenses: 11694
+AVG Expenses: 5847.0
+Total Profits: 4110
+AVG Profits: 2055.0
+Total Time: 126
+AVG Time: 63.0
+
+
+--Automobile 2--
+Manufacturer: 2
+Material: c
+Total Material Weight: 1505
+AVG Material Weight: 752.5
+Total Income: 17314
+AVG Income: 8657.0
+Total Expenses: 11182
+AVG Expenses: 5591.0
+Total Profits: 6132
+AVG Profits: 3066.0
+Total Time: 134
+AVG Time: 67.0
+
+
+--Automobile 3--
+Manufacturer: 3
+Material: b
+Total Material Weight: 1521
+AVG Material Weight: 760.5
+Total Income: 16279
+AVG Income: 8139.5
+Total Expenses: 10802
+AVG Expenses: 5401.0
+Total Profits: 5477
+AVG Profits: 2738.5
+Total Time: 148
+AVG Time: 74.0
+
+
+--Automobile 4--
+Manufacturer: 4
+Material: d
+Total Material Weight: 1527
+AVG Material Weight: 763.5
+Total Income: 14526
+AVG Income: 7263.0
+Total Expenses: 9264
+AVG Expenses: 4632.0
+Total Profits: 5262
+AVG Profits: 2631.0
+Total Time: 144
+AVG Time: 72.0

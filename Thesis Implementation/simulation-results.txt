@@ -1,0 +1,109 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Simulation 1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++---------------------------------------Automobile 1---------------------------------------+
+| ID: 9                                                                                    |
+| Timestamp: 65                                                                            |
+| Material: a                                                                              |
+| Material Weight: 773                                                                     |
+| Manufacturer: 1                                                                          |
+| History: provincial supplier 1 -> county supplier 1 -> township supplier 1 ->            |
+| manufacturer 1 -> automobile 1 -> distributor 1 -> retailer 1 -> customer 1 ->           |
+| recycling center 1 -> recycled                                                           |
+| Income: 8026                                                                             |
+| Expenses: 6079                                                                           |
+| Profits: 1947                                                                            |
++------------------------------------------------------------------------------------------+
++---------------------------------------Automobile 2---------------------------------------+
+| ID: 10                                                                                   |
+| Timestamp: 68                                                                            |
+| Material: c                                                                              |
+| Material Weight: 711                                                                     |
+| Manufacturer: 2                                                                          |
+| History: county supplier 1 -> township supplier 2 -> manufacturer 2 ->                   |
+| automobile 2 -> distributor 2 -> retailer 2 -> customer 2 -> recycling center 2 ->       |
+| recycled                                                                                 |
+| Income: 8630                                                                             |
+| Expenses: 5167                                                                           |
+| Profits: 3463                                                                            |
++------------------------------------------------------------------------------------------+
++---------------------------------------Automobile 3---------------------------------------+
+| ID: 11                                                                                   |
+| Timestamp: 78                                                                            |
+| Material: b                                                                              |
+| Material Weight: 775                                                                     |
+| Manufacturer: 3                                                                          |
+| History: provincial supplier 2 -> municipal supplier 2 -> county supplier 2 ->           |
+| township supplier 3 -> manufacturer 3 -> automobile 3 -> distributor 3 -> retailer 3 ->  |
+| customer 3 -> recycling center 3 -> recycled                                             |
+| Income: 8714                                                                             |
+| Expenses: 5227                                                                           |
+| Profits: 3487                                                                            |
++------------------------------------------------------------------------------------------+
++---------------------------------------Automobile 4---------------------------------------+
+| ID: 12                                                                                   |
+| Timestamp: 73                                                                            |
+| Material: d                                                                              |
+| Material Weight: 790                                                                     |
+| Manufacturer: 4                                                                          |
+| History: municipal supplier 2 -> county supplier 3 -> township supplier 4 ->             |
+| manufacturer 4 -> automobile 4 -> distributor 4 -> retailer 4 -> customer 4 ->           |
+| recycling center 4 -> recycled                                                           |
+| Income: 7287                                                                             |
+| Expenses: 4614                                                                           |
+| Profits: 2673                                                                            |
++------------------------------------------------------------------------------------------+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Simulation 2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++---------------------------------------Automobile 1---------------------------------------+
+| ID: 21                                                                                   |
+| Timestamp: 61                                                                            |
+| Material: a                                                                              |
+| Material Weight: 745                                                                     |
+| Manufacturer: 1                                                                          |
+| History: provincial supplier 1 -> municipal supplier 1 -> county supplier 1 ->           |
+| township supplier 1 -> manufacturer 1 -> automobile 1 -> distributor 1 -> retailer 1 ->  |
+| customer 1 -> recycling center 1 -> recycled                                             |
+| Income: 7778                                                                             |
+| Expenses: 5615                                                                           |
+| Profits: 2163                                                                            |
++------------------------------------------------------------------------------------------+
++---------------------------------------Automobile 2---------------------------------------+
+| ID: 22                                                                                   |
+| Timestamp: 66                                                                            |
+| Material: c                                                                              |
+| Material Weight: 794                                                                     |
+| Manufacturer: 2                                                                          |
+| History: county supplier 1 -> township supplier 2 -> manufacturer 2 ->                   |
+| automobile 2 -> distributor 2 -> retailer 2 -> customer 2 -> recycling center 2 ->       |
+| recycled                                                                                 |
+| Income: 8684                                                                             |
+| Expenses: 6015                                                                           |
+| Profits: 2669                                                                            |
++------------------------------------------------------------------------------------------+
++---------------------------------------Automobile 3---------------------------------------+
+| ID: 23                                                                                   |
+| Timestamp: 70                                                                            |
+| Material: b                                                                              |
+| Material Weight: 746                                                                     |
+| Manufacturer: 3                                                                          |
+| History: provincial supplier 2 -> municipal supplier 2 -> county supplier 2 ->           |
+| township supplier 3 -> manufacturer 3 -> automobile 3 -> distributor 3 -> retailer 3 ->  |
+| customer 3 -> recycling center 3 -> recycled                                             |
+| Income: 7565                                                                             |
+| Expenses: 5575                                                                           |
+| Profits: 1990                                                                            |
++------------------------------------------------------------------------------------------+
++---------------------------------------Automobile 4---------------------------------------+
+| ID: 24                                                                                   |
+| Timestamp: 71                                                                            |
+| Material: d                                                                              |
+| Material Weight: 737                                                                     |
+| Manufacturer: 4                                                                          |
+| History: municipal supplier 2 -> county supplier 3 -> township supplier 4 ->             |
+| manufacturer 4 -> automobile 4 -> distributor 4 -> retailer 4 -> customer 4 ->           |
+| recycling center 4 -> recycled                                                           |
+| Income: 7239                                                                             |
+| Expenses: 4650                                                                           |
+| Profits: 2589                                                                            |
++------------------------------------------------------------------------------------------+
